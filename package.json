@@ -1,0 +1,27 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "This npm pacakge allows you to convert currency in real time",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm rum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jha-bhaskar/currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Bhaskar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jha-bhaskar/currency-converter/issues"
+  },
+  "homepage": "https://github.com/jha-bhaskar/currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
